@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-import sklearn
 
 st.set_page_config(page_title="Home", page_icon="📈")
 
