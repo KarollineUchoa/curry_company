@@ -26,5 +26,5 @@ st.markdown(
         - Indicadores semanais do crescimento dos restaurantes.
     ### Ask for Help
     - Time de Data Science no Discord
-        - @karollineuchoa
+        - @karol_euchoa
     ''')
